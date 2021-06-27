@@ -1,0 +1,19 @@
+python3  ./final_code/my_detectnet.py  --model=/jetson-inference/python/training/detection/ssd/models/saif/ssd-mobilenet.onnx --labels=/jetson-inference/python/training/detection/ssd/models/saif/labels.txt --input-blob=input_0 --output-cvg=scores --output-bbox=boxes /dev/video0
+
+
+# pyttsx3 setup cmds
+
+apt-get update && apt-get install espeak 
+pip3 install pyttsx3 
+apt-get install alsa-utils
+printf "defaults.pcm.card 3 \ndefaults.ctl.card 3 \n" > /etc/asound.conf
+
+outside container
+
+cat /proc/asound/cards 
+
+
+
+
+
+
