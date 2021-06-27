@@ -36,8 +36,8 @@ def getLocation():
 # and set the environment variables. See http://twil.io/secure
 
 def twilio_msg_snd():
-    account_sid = 'ACaa0aa6365eae80dc7df66a9f6bb477de'
-    auth_token = '3f90956ebcc5310862a47a2a98b8ad77'
+    account_sid = ''
+    auth_token = ''
     client = Client(account_sid, auth_token)
 
 
@@ -48,8 +48,8 @@ def twilio_msg_snd():
                         
                         body=f'testing for location sender Visual Impairment System https://www.google.com/maps/search/?api=1&query={latitude},{longitude}',
                         
-                        from_='+14075422226',
-                        to='+923325928317'
+                        from_='',#twilio number
+                        to='' #your number
                     )
 
 #twilio_msg_snd()
