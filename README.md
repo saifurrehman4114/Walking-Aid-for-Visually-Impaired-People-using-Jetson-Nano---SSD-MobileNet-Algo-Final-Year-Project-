@@ -2,18 +2,15 @@
 
 Final Year Project Title: Implementation of walking aid for Visually Impaired people on Accelerated System (Jetson Nano)
 
-Objectives we are able to achieved: 
+Objectives we are able to achieve:
 
-• Annotated the dataset of Images using CVAT (Computer Vision Annotation
-  Tool)
-  
-• Achieved to train the SSD (Single Shot Detector) Computer Vison Algorithm
-  for Facial and Object Detection.
-  
+• Annotated the dataset of Images using CVAT (Computer Vision Annotation Tool)
+
+• Achieved to train the SSD (Single Shot Detector) Computer Vision Algorithm for Facial and Object Detection.
+
 • Achieved to do auto-labeling of the captured Images.
 
-• Achieved to made a location sender notification system in case of Emergency
-  for visual impaired person
+• Achieved made a location sender notification system in case of Emergency for the visually impaired person
 
 Data on which I have trained this model is in the following link:
 
@@ -31,4 +28,4 @@ Image of the Mechanical Structure of the Project:
 
 Accuracy of the Model is arond 85%, but the accuracy can be improved by increasing the dataset and the number of Epochs. 
 
-Video of the Project is Coming soon.
+<!-- Video of the Project is Coming soon. -->
