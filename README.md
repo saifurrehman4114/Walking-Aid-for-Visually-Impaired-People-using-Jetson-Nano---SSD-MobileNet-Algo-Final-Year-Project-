@@ -26,6 +26,6 @@ Image of the Mechanical Structure of the Project:
 
 <a href="https://ibb.co/8D3q5Yp"><img src="https://i.ibb.co/7JcPWk5/project-pic.jpg" alt="project-pic" border="0" /></a>
 
-Accuracy of the Model is arond 85%, but the accuracy can be improved by increasing the dataset and the number of Epochs. 
+Accuracy of the Model is around 85%, but the accuracy can be improved by increasing the dataset and the number of Epochs. 
 
 <!-- Video of the Project is Coming soon. -->
