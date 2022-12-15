@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Python-Python-green)
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 
 Final Year Project Title: Implementation of walking aid for Visually Impaired people on Accelerated System (Jetson Nano)
