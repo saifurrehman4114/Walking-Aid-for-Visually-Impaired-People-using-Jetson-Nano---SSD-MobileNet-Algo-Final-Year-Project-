@@ -30,4 +30,11 @@ Accuracy of the Model is around 85%, but the accuracy can be improved by increas
 
 Thank you for reading the ReadMe File really appreciate that!
 
+Have a great day and Take Care.
+
+Regards,
+
+Saif
+
+
 <!-- Video of the Project is Coming soon. -->
