@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Python-Python-green)
+![](https://img.shields.io/weblate/l/saifurrehman4114/Walking-Aid-for-Visually-Impaired-People-using-Jetson-Nano---SSD-MobileNet-Algo-Final-Year-Project-?server=https%3A%2F%2Fimg.shields.io%2Fweblate%2Fl%2Fsaifurrehman4114%2FWalking-Aid-for-Visually-Impaired-People-using-Jetson-Nano---SSD-MobileNet-Algo-Final-Year-Project-&style=plastic)
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 
 Final Year Project Title: Implementation of walking aid for Visually Impaired people on Accelerated System (Jetson Nano)
